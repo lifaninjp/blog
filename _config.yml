@@ -7,7 +7,7 @@ title: Hexo
 subtitle:
 description:
 author: LiFan
-language:
+language: en
 timezone:
 
 # URL
@@ -71,3 +71,4 @@ deploy:
   type: git
   repo: http://github.com/lifaninjp/blog
   branch: gh-pages
+
